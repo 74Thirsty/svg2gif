@@ -1,5 +1,10 @@
 # svg2gif.sh
 
+[![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Powered by Puppeteer](https://img.shields.io/badge/Powered%20by-Puppeteer-40B5A4?logo=puppeteer&logoColor=white)](https://pptr.dev/)
+[![ffmpeg](https://img.shields.io/badge/ffmpeg-enabled-007808?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
+[![License](https://img.shields.io/badge/License-Custom-lightgrey.svg)](./LICENSE.md)
+
 > 🖼️ Convert any SVG animation into a GIF with one command.  
 > Powered by Node.js, Puppeteer, and ffmpeg — wrapped in a friendly Bash script.
 
@@ -68,4 +73,6 @@ The script will install [Puppeteer](https://pptr.dev/) locally on first run.
 
 ## 📝 License
 
-MIT — free to use, modify, and share.
+[MIT](./LICENSE.md) — free to use, modify, and share.
+
+
