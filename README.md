@@ -1,3 +1,5 @@
+![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/gunfire.svg)
+
 # svg2gif.sh
 
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
