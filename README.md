@@ -73,6 +73,6 @@ The script will install [Puppeteer](https://pptr.dev/) locally on first run.
 
 ## 📝 License
 
-[MIT](./LICENSE.md) — free to use, modify, and share.
+[PROPRIETARY](./LICENSE.md) — free to use, modify, and share.
 
 
